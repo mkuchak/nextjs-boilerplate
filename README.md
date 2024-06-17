@@ -10,3 +10,5 @@
   - Standard
   - Import Sort
   - TailwindCSS Sort
+
+*(outdated boilerplate)* 
